@@ -4,6 +4,7 @@
 <img align="right" width="400" src="images/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munteanumarco&label=Profile%20views&color=0e75b6&style=flat" alt="munteanumarco" /> </p>
+- Studying Computer Science at UBB
 
 - 🌱 I’m currently learning **React, Node, MongoDB**
 
