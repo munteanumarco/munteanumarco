@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munteanumarco&label=Profile%20views&color=0e75b6&style=flat" alt="munteanumarco" /> </p>
 
-- 📕 Studying Computer Science at UBB 
+- 📕 Studying Computer Science at Babes-Bolyai University
 
 - 🌱 I’m currently learning **React, Node, MongoDB**
 
