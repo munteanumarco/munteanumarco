@@ -7,8 +7,6 @@
 
 - 📕 Studying Computer Science at Babes-Bolyai University
 
-- 🌱 I’m currently learning **React, Node, MongoDB**
-
 - 📫 How to reach me **marcomunteanu02@gmail.com**
 
 
