@@ -3,7 +3,12 @@
 <h3 align="center">A passionate computer science student from Romania</h3>
 <img align="right" width="400" src="images/coding.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=munteanumarco&label=Profile%20views&color=0e75b6&style=flat" alt="munteanumarco" /> </p>
+
+
 - 📕 Studying Computer Science at Babes-Bolyai University
+
+- 💼 Software Engineer Intern @ National Instruments
 
 - 📫 How to reach me **marcomunteanu02@gmail.com**
 
