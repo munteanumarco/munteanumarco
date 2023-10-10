@@ -8,8 +8,6 @@
 
 - 📕 Studying Computer Science at Babes-Bolyai University
 
-- 💼 Software Engineer Intern @ National Instruments
-
 - 📫 How to reach me **marcomunteanu02@gmail.com**
 
 
