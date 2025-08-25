@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munteanumarco&label=Profile%20views&color=0e75b6&style=flat" alt="munteanumarco" /> </p>
 
-- 💼 Software Engineer @ NI
+- 💼 Software Engineer @ Rollee
 
 - 📕  Pursuing MSc in Databases at Babes-Bolyai University
 
